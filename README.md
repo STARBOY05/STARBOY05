@@ -1,4 +1,4 @@
-### Hi there!👋 I am Alistair Saldanha..
+<h1 style="text-align: center;">Hi there!👋 I am Alistair Saldanha</h1>
 
 <!--
 **STARBOY05/STARBOY05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
