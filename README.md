@@ -18,12 +18,9 @@ Here are some ideas to get you started:
 <table>
 <tr>
   <td vlign="center">
-    🎓 I am currently pursuing my **B.Tech in Computer Science Engineering (Data Science)**.
-    🌱 I am currently learning **Python** and also working on my **Web Development** skills.
+    🎓 I am currently pursuing my B.Tech in Computer Science Engineering (Data Science).
+    🌱 I am currently learning <bold>Python and also working on my Web Development skills.
 </tr>
-  <td >
-    <a href="https://www.linkedin.com/in/alistair-saldanha/"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQGVU9o1JVrrXg/profile-displayphoto-shrink_800_800/0/1651722048788?e=1657756800&v=beta&t=Vq6vUTGE3q4V49XgR6-A2uM11NTcFI2Jd_qHZEG0vKA" width="300" alt="Alistair Saldanha"/></a>
-  </td>
 </table>
   
 ## Stats📈 
