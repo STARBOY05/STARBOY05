@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 <table>
 <tr>
   <td vlign="center">
-    🎓 I am currently pursuing my B.Tech in Computer Science Engineering (Data Science).
-    🌱 I am currently learning <bold>Python and also working on my Web Development skills.
+    🎓 Pursuing my B.Tech in Computer Science Engineering (Data Science).
+    <br>
+    🌱 Learning Python and also working on my Web Development skills.
 </tr>
 </table>
   
