@@ -1,5 +1,10 @@
-<h2 style="text-align: center;"> Hi, I am Alistair Saldanha <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-<h2 style="text-align: center;"> Learning about Data Science and Web Development </h2>
+<h2> <img width="60%" src="https://readme-typing-svg.herokuapp.com?lines=Hi%2C+I+am+Alistair+Saldanha;Learning+about+Data+and+Web;" alt="STARBOY05" /> </h2>
+<h4>🎓 Pursuing my B.Tech in Computer Science Engineering (Data Science). </h4>
+<h4>🌱 Learning Python and also working on my Web Development skills. </h4>
+<h4>🔭 Currently working on Music Player Website using MERN stack. </h4>
+<h4>📫 Reach me: LinkedIn - https://www.linkedin.com/in/alistair-saldanha/ </h4>
+<h4>⚡ Fun fact: 'SWIMS' reads the same even when turned upside down. This property is referred to as an ambigram. </h4>
+  
 
 <!--
 **STARBOY05/STARBOY05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,14 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<table>
-<tr>
-  <td vlign="center">
-    🎓 Pursuing my B.Tech in Computer Science Engineering (Data Science).
-    <br>
-    🌱 Learning Python and also working on my Web Development skills.
-</tr>
-</table>
-  
 ## Stats📈 
-  <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=STARBOY05&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="STARBOY05" />  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=STARBOY05&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="STARBOY05" /> <br><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=STARBOY05&theme=highcontrast&hide_border=true" alt="STARBOY05" /> </p>
+  <p align="center"> <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=STARBOY05&theme=dracula" alt="STARBOY05" /> </span>
+  <p align="center"> <img width="50%" src="https://github-readme-stats.vercel.app/api?username=STARBOY05&theme=radical" alt="STARBOY05" /> </span>
+  <p align="center"> <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=STARBOY05&theme=dracula" alt="STARBOY05" /> </p>
