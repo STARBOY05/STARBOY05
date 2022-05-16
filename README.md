@@ -1,4 +1,4 @@
-<h2> <img width="60%" src="https://readme-typing-svg.herokuapp.com?lines=Hi%2C+I+am+Alistair+Saldanha;Learning+about+Data+and+Web;" alt="STARBOY05" /> </h2>
+<h2> <img width="60%" src="https://readme-typing-svg.herokuapp.com?lines=Hi%2C+I+am+Alistair+Saldanha+👋;Learning+about+Data+and+Web;" alt="STARBOY05" /> </h2>
 <h4>🎓 Pursuing my B.Tech in Computer Science Engineering (Data Science). </h4>
 <h4>🌱 Learning Python and also working on my Web Development skills. </h4>
 <h4>🔭 Currently working on Music Player Website using MERN stack. </h4>
