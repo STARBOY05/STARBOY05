@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Stats📈 
+## Github Stats📈 
   <p align="center"> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=STARBOY05&layout=compact&theme=dracula" alt="STARBOY05" /> </span>
   <p align="center"> <img width="45%" src="https://github-readme-stats.vercel.app/api?username=STARBOY05&theme=radical" alt="STARBOY05">
 <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=STARBOY05&theme=dracula" alt="STARBOY05" /> </p>
