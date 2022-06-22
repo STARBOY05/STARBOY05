@@ -8,9 +8,11 @@
     
    🔭 Currently working on Music Recommendation System 
   
-   📫 Reach me: LinkedIn - https://www.linkedin.com/in/alistair-saldanha/ Gmail - <a href="mailto:shaanalistair47@gmail.com">shaanalistair47@gmail.com
+   📫 Reach me:   <a href="https://www.linkedin.com/in/alistair-saldanha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="mailto:shaanalistair47@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   
    ⚡ Fun fact: 'SWIMS' reads the same even when turned upside down (ambigram).
+
   </div>
   
 
