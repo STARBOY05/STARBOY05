@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 -->
 <h2>🏆 GITHUB STATS</h2> 
 <div>
-  <p align="center"> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=STARBOY05&layout=compact&theme=dracula" alt="STARBOY05" /> 
+  <p align="center"> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=STARBOY05&layout=compact&theme=dracula&langs_count=10" alt="STARBOY05" /> 
   <p align="center"> <img width="45%" src="https://github-readme-stats.vercel.app/api?username=STARBOY05&theme=radical&show_icons=true&include_all_commits=true&count_private=true" alt="STARBOY05">
     &nbsp;&nbsp;
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=STARBOY05&theme=dracula" alt="STARBOY05" /> </p>
@@ -45,18 +45,6 @@ Here are some ideas to get you started:
    [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,haskell,mongodb,express,react,nodejs,vscode,c,cpp,py)](https://skillicons.dev)
    
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!-- 
 <h2>I am familiar with... </h2>
