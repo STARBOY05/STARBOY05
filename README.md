@@ -1,7 +1,8 @@
   <h2> <img width="80%" src="https://readme-typing-svg.herokuapp.com?lines=Hi!+I+am+Alistair+Saldanha+👋;Learning+about+Data+and+Web.;" alt="STARBOY05" /> </h2>
   <div>
-  <h2>😏 ABOUT ME</h2> 
-     <img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="55%" />  
+  <h2>😏 ABOUT ME</h2>   
+ 
+  <img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300px" />
  
    🎓 Pursuing my B.Tech in Computer Science Engineering (Data Science). 
   
@@ -13,9 +14,9 @@
   <a href="mailto:shaanalistair47@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   
    ⚡ Fun fact: 'SWIMS' reads the same even when turned upside down (ambigram).
-  </div>
   
-
+  </div>
+ 
 <!--
 **STARBOY05/STARBOY05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,11 +41,11 @@ Here are some ideas to get you started:
 
 <h2>🤹MY SKILLS</h2> 
 
-<p align="center">
+<div align="center">
   
    [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,haskell,mongodb,express,react,nodejs,vscode,c,cpp,py)](https://skillicons.dev)
    
-</p>
+</div>
 
 <!-- 
 <h2>I am familiar with... </h2>
