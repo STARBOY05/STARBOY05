@@ -1,7 +1,7 @@
   <h2> <img width="80%" src="https://readme-typing-svg.herokuapp.com?lines=Hi!+I+am+Alistair+Saldanha+👋;Learning+about+Data+and+Web.;" alt="STARBOY05" /> </h2>
   <div>
   <h2>😏 ABOUT ME</h2> 
-     <img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="32%" />  
+     <img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="55%" />  
  
    🎓 Pursuing my B.Tech in Computer Science Engineering (Data Science). 
   
