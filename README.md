@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=STARBOY05&theme=dracula" alt="STARBOY05" /> </p>
 </div>
 
-<h2>🤹MY SKILLS</h2> 
+<h2>🤹 MY SKILLS</h2> 
 
 <div align="center">
   
