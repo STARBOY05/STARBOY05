@@ -4,11 +4,11 @@
  
   <img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300px" />
  
-   🎓 Pursuing my B.Tech in Computer Science Engineering (Data Science). 
+   🎓 Pursuing my B.Tech in <b>Computer Science Engineering (Data Science)</b>. 
   
-   🌱 Learning Python and also working on my Web Development skills. 
+   🌱 Learning <b>Python</b> and also working on my <b>Web Development</b> skills. 
     
-   🔭 Currently working on Music Recommendation System 
+   🔭 Currently working on <b>Music Recommendation System</b> 
   
    📫 Reach me: &nbsp; <a href="https://www.linkedin.com/in/alistair-saldanha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;
   <a href="mailto:shaanalistair47@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
