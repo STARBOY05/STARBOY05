@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-   [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,haskell,mongodb,express,react,nodejs,vscode,c,cpp,py)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,haskell,mongodb,express,react,nodejs,vscode,c,cpp,py,tailwind)](https://skillicons.dev)
    
 </div>
 
