@@ -10,7 +10,7 @@
     <p>🔭 Currently working on <b>Music Recommendation System</b></p>
     <p>📫 <b>Reach me</b>: &nbsp; <a href="https://www.linkedin.com/in/alistair-saldanha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;
   <a href="mailto:shaanalistair47@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> </p>
-   <p>⚡ Fun fact: <b>'SWIMS'</b> reads the same even when turned upside down (ambigram). </p>
+   <p>⚡ Fun fact: Most people fall asleep in seven minutes including me 😜. </p>
   </div>
   </div>
  
