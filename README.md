@@ -7,7 +7,7 @@
   <div width="50%" align="left">
     <p>🎓 Pursuing my B.Tech in <b>Computer Science Engineering (Data Science)</b>.</p>
     <p>🌱 Learning <b>Python</b> and also working on my <b>Web Development</b> skills.</p>    
-    <p>🔭 Currently working on <b>Music Recommendation System</b> and <b>BookSmart App</b></p>
+    <p>🔭 Currently working on <b>Music Recommendation System</b></p>
     <p>📫 <b>Reach me</b>: &nbsp; <a href="https://www.linkedin.com/in/alistair-saldanha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;
   <a href="mailto:shaanalistair47@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> </p>
    <p>⚡ Fun fact: Most people fall asleep in seven minutes including me 😜. </p>
